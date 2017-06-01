@@ -1,0 +1,566 @@
+<SFRendering>
+  <Layer Name="philsoil_Project" GroupName="Data Layers" Type="3" Path="" Tag="" LegendPicture="" Visible="True" LabelsVisible="True" Expanded="False">
+    <Image Type="">
+    </Image>
+    <ShapeFileProperties LabelsVisible="True" MapTooltipField="-1" MapTooltipsEnabled="False" VerticesVisible="False" Color="13018941" DrawFill="True" TransparencyPercent="1" FillStipple="0" LineOrPointSize="1" LineStipple="0" OutLineColor="3701697" PointType="0" CustomLineStipple="0" UseTransparency="False" TransparencyColor="0" FillStippleTransparent="False" FillStippleLineColor="-13289933">
+      <CustomPointType>
+        <Image Type="">
+        </Image>
+      </CustomPointType>
+      <Legend FieldIndex="3" Key="" NumberOfBreaks="549" SchemeCaption="SOILDESC">
+        <ColorBreaks>
+          <Break StartColor="1211627" EndColor="1211627" StartValue="" EndValue="" Caption="" Visible="True" />
+          <Break StartColor="8012906" EndColor="8012906" StartValue="Abatan clay loam" EndValue="Abatan clay loam" Caption="Abatan clay loam" Visible="True" />
+          <Break StartColor="10933815" EndColor="10933815" StartValue="Aborlan loam" EndValue="Aborlan loam" Caption="Aborlan loam" Visible="True" />
+          <Break StartColor="5331094" EndColor="5331094" StartValue="Adtuyan clay" EndValue="Adtuyan clay" Caption="Adtuyan clay" Visible="True" />
+          <Break StartColor="12729566" EndColor="12729566" StartValue="Adtuyan clay loam" EndValue="Adtuyan clay loam" Caption="Adtuyan clay loam" Visible="True" />
+          <Break StartColor="10864447" EndColor="10864447" StartValue="Adtuyan clay stony phase" EndValue="Adtuyan clay stony phase" Caption="Adtuyan clay stony phase" Visible="True" />
+          <Break StartColor="6574424" EndColor="6574424" StartValue="Adtuyon clay stony phase" EndValue="Adtuyon clay stony phase" Caption="Adtuyon clay stony phase" Visible="True" />
+          <Break StartColor="6503840" EndColor="6503840" StartValue="Adtuyon La Castellana complex" EndValue="Adtuyon La Castellana complex" Caption="Adtuyon La Castellana complex" Visible="True" />
+          <Break StartColor="13799723" EndColor="13799723" StartValue="Adtuyon loam" EndValue="Adtuyon loam" Caption="Adtuyon loam" Visible="True" />
+          <Break StartColor="12231331" EndColor="12231331" StartValue="Alaminos clay" EndValue="Alaminos clay" Caption="Alaminos clay" Visible="True" />
+          <Break StartColor="3274471" EndColor="3274471" StartValue="Alaminos clay loam" EndValue="Alaminos clay loam" Caption="Alaminos clay loam" Visible="True" />
+          <Break StartColor="10038713" EndColor="10038713" StartValue="Alaminos loam" EndValue="Alaminos loam" Caption="Alaminos loam" Visible="True" />
+          <Break StartColor="15356463" EndColor="15356463" StartValue="Alaminos loam (Ilocos Sur)" EndValue="Alaminos loam (Ilocos Sur)" Caption="Alaminos loam (Ilocos Sur)" Visible="True" />
+          <Break StartColor="7290373" EndColor="7290373" StartValue="Alaminos sandy clay loam" EndValue="Alaminos sandy clay loam" Caption="Alaminos sandy clay loam" Visible="True" />
+          <Break StartColor="14489074" EndColor="14489074" StartValue="Alaminos sandy loam" EndValue="Alaminos sandy loam" Caption="Alaminos sandy loam" Visible="True" />
+          <Break StartColor="6935397" EndColor="6935397" StartValue="Alaminos silty clay loam" EndValue="Alaminos silty clay loam" Caption="Alaminos silty clay loam" Visible="True" />
+          <Break StartColor="5208379" EndColor="5208379" StartValue="Alaminos soil (undifferentiated)" EndValue="Alaminos soil (undifferentiated)" Caption="Alaminos soil (undifferentiated)" Visible="True" />
+          <Break StartColor="10701324" EndColor="10701324" StartValue="Alimodian - Barotac complex" EndValue="Alimodian - Barotac complex" Caption="Alimodian - Barotac complex" Visible="True" />
+          <Break StartColor="1398032" EndColor="1398032" StartValue="Alimodian clay" EndValue="Alimodian clay" Caption="Alimodian clay" Visible="True" />
+          <Break StartColor="824721" EndColor="824721" StartValue="Alimodian clay loam" EndValue="Alimodian clay loam" Caption="Alimodian clay loam" Visible="True" />
+          <Break StartColor="7597907" EndColor="7597907" StartValue="Alimodian sandy clay" EndValue="Alimodian sandy clay" Caption="Alimodian sandy clay" Visible="True" />
+          <Break StartColor="15088846" EndColor="15088846" StartValue="Alimodian sandy clay loam" EndValue="Alimodian sandy clay loam" Caption="Alimodian sandy clay loam" Visible="True" />
+          <Break StartColor="10203835" EndColor="10203835" StartValue="Alimodian sandy loam" EndValue="Alimodian sandy loam" Caption="Alimodian sandy loam" Visible="True" />
+          <Break StartColor="2995938" EndColor="2995938" StartValue="Alimodian silt loam" EndValue="Alimodian silt loam" Caption="Alimodian silt loam" Visible="True" />
+          <Break StartColor="14194981" EndColor="14194981" StartValue="Alimodian soils, undifferentiated" EndValue="Alimodian soils, undifferentiated" Caption="Alimodian soils, undifferentiated" Visible="True" />
+          <Break StartColor="4786483" EndColor="4786483" StartValue="Alimoidan silt loam" EndValue="Alimoidan silt loam" Caption="Alimoidan silt loam" Visible="True" />
+          <Break StartColor="13148148" EndColor="13148148" StartValue="Ambassador silt loam" EndValue="Ambassador silt loam" Caption="Ambassador silt loam" Visible="True" />
+          <Break StartColor="14003521" EndColor="14003521" StartValue="Anao-aon silty clay" EndValue="Anao-aon silty clay" Caption="Anao-aon silty clay" Visible="True" />
+          <Break StartColor="2990663" EndColor="2990663" StartValue="Angeles coarse sand" EndValue="Angeles coarse sand" Caption="Angeles coarse sand" Visible="True" />
+          <Break StartColor="6759334" EndColor="6759334" StartValue="Angeles fine sand" EndValue="Angeles fine sand" Caption="Angeles fine sand" Visible="True" />
+          <Break StartColor="4486169" EndColor="4486169" StartValue="Angeles sand" EndValue="Angeles sand" Caption="Angeles sand" Visible="True" />
+          <Break StartColor="9880739" EndColor="9880739" StartValue="Angeles sandy loam" EndValue="Angeles sandy loam" Caption="Angeles sandy loam" Visible="True" />
+          <Break StartColor="10619828" EndColor="10619828" StartValue="Angeles soil (undifferentiated" EndValue="Angeles soil (undifferentiated" Caption="Angeles soil (undifferentiated" Visible="True" />
+          <Break StartColor="11776765" EndColor="11776765" StartValue="Annam clay" EndValue="Annam clay" Caption="Annam clay" Visible="True" />
+          <Break StartColor="268545" EndColor="268545" StartValue="Annam clay loam" EndValue="Annam clay loam" Caption="Annam clay loam" Visible="True" />
+          <Break StartColor="16118557" EndColor="16118557" StartValue="Annam loam gravelly phase" EndValue="Annam loam gravelly phase" Caption="Annam loam gravelly phase" Visible="True" />
+          <Break StartColor="9400201" EndColor="9400201" StartValue="Annam sandy clay loam" EndValue="Annam sandy clay loam" Caption="Annam sandy clay loam" Visible="True" />
+          <Break StartColor="268202" EndColor="268202" StartValue="Annam silt loam" EndValue="Annam silt loam" Caption="Annam silt loam" Visible="True" />
+          <Break StartColor="8582233" EndColor="8582233" StartValue="Antipolo - Alimoidan - Luisiana complex" EndValue="Antipolo - Alimoidan - Luisiana complex" Caption="Antipolo - Alimoidan - Luisiana complex" Visible="True" />
+          <Break StartColor="2030887" EndColor="2030887" StartValue="Antipolo clay" EndValue="Antipolo clay" Caption="Antipolo clay" Visible="True" />
+          <Break StartColor="4528891" EndColor="4528891" StartValue="Antipolo clay loam" EndValue="Antipolo clay loam" Caption="Antipolo clay loam" Visible="True" />
+          <Break StartColor="6200612" EndColor="6200612" StartValue="Antipolo sandy clay" EndValue="Antipolo sandy clay" Caption="Antipolo sandy clay" Visible="True" />
+          <Break StartColor="4396866" EndColor="4396866" StartValue="Antipolo soils (undiferrentiated)" EndValue="Antipolo soils (undiferrentiated)" Caption="Antipolo soils (undiferrentiated)" Visible="True" />
+          <Break StartColor="12766254" EndColor="12766254" StartValue="Arayat clay loam" EndValue="Arayat clay loam" Caption="Arayat clay loam" Visible="True" />
+          <Break StartColor="3296668" EndColor="3296668" StartValue="Arayat sandy clay loam" EndValue="Arayat sandy clay loam" Caption="Arayat sandy clay loam" Visible="True" />
+          <Break StartColor="164238" EndColor="164238" StartValue="Aroman clay loam" EndValue="Aroman clay loam" Caption="Aroman clay loam" Visible="True" />
+          <Break StartColor="8823850" EndColor="8823850" StartValue="Atok clay loam" EndValue="Atok clay loam" Caption="Atok clay loam" Visible="True" />
+          <Break StartColor="5442399" EndColor="5442399" StartValue="Babuyan clay" EndValue="Babuyan clay" Caption="Babuyan clay" Visible="True" />
+          <Break StartColor="3918542" EndColor="3918542" StartValue="Babuyan silty clay loam" EndValue="Babuyan silty clay loam" Caption="Babuyan silty clay loam" Visible="True" />
+          <Break StartColor="11937201" EndColor="11937201" StartValue="Bad-as sandy loam" EndValue="Bad-as sandy loam" Caption="Bad-as sandy loam" Visible="True" />
+          <Break StartColor="4818153" EndColor="4818153" StartValue="Bago clay loam" EndValue="Bago clay loam" Caption="Bago clay loam" Visible="True" />
+          <Break StartColor="6488498" EndColor="6488498" StartValue="Bago fine sandy loam" EndValue="Bago fine sandy loam" Caption="Bago fine sandy loam" Visible="True" />
+          <Break StartColor="5613191" EndColor="5613191" StartValue="Bago loam" EndValue="Bago loam" Caption="Bago loam" Visible="True" />
+          <Break StartColor="5869336" EndColor="5869336" StartValue="Bago sandy clay loam" EndValue="Bago sandy clay loam" Caption="Bago sandy clay loam" Visible="True" />
+          <Break StartColor="8472865" EndColor="8472865" StartValue="Bago sandy loam" EndValue="Bago sandy loam" Caption="Bago sandy loam" Visible="True" />
+          <Break StartColor="5812790" EndColor="5812790" StartValue="Baguio clay loam" EndValue="Baguio clay loam" Caption="Baguio clay loam" Visible="True" />
+          <Break StartColor="6639431" EndColor="6639431" StartValue="Bakakeng clay" EndValue="Bakakeng clay" Caption="Bakakeng clay" Visible="True" />
+          <Break StartColor="10626951" EndColor="10626951" StartValue="Balacbac gravelly clay loam" EndValue="Balacbac gravelly clay loam" Caption="Balacbac gravelly clay loam" Visible="True" />
+          <Break StartColor="9986254" EndColor="9986254" StartValue="Baler silty clay loam" EndValue="Baler silty clay loam" Caption="Baler silty clay loam" Visible="True" />
+          <Break StartColor="5520283" EndColor="5520283" StartValue="Baliangao clay loam" EndValue="Baliangao clay loam" Caption="Baliangao clay loam" Visible="True" />
+          <Break StartColor="5888853" EndColor="5888853" StartValue="Balili gravelly loam" EndValue="Balili gravelly loam" Caption="Balili gravelly loam" Visible="True" />
+          <Break StartColor="3715233" EndColor="3715233" StartValue="Balongay clay" EndValue="Balongay clay" Caption="Balongay clay" Visible="True" />
+          <Break StartColor="2783796" EndColor="2783796" StartValue="Baluarte clay loam" EndValue="Baluarte clay loam" Caption="Baluarte clay loam" Visible="True" />
+          <Break StartColor="6448389" EndColor="6448389" StartValue="Balut clay loam" EndValue="Balut clay loam" Caption="Balut clay loam" Visible="True" />
+          <Break StartColor="8819520" EndColor="8819520" StartValue="Balut loam" EndValue="Balut loam" Caption="Balut loam" Visible="True" />
+          <Break StartColor="16222169" EndColor="16222169" StartValue="Banaa sandy loam" EndValue="Banaa sandy loam" Caption="Banaa sandy loam" Visible="True" />
+          <Break StartColor="16465130" EndColor="16465130" StartValue="Bancal clay" EndValue="Bancal clay" Caption="Bancal clay" Visible="True" />
+          <Break StartColor="15043343" EndColor="15043343" StartValue="Bangkal clay loam" EndValue="Bangkal clay loam" Caption="Bangkal clay loam" Visible="True" />
+          <Break StartColor="4505493" EndColor="4505493" StartValue="Banhigan clay loam" EndValue="Banhigan clay loam" Caption="Banhigan clay loam" Visible="True" />
+          <Break StartColor="8395929" EndColor="8395929" StartValue="Bani clay / Bolinao clay loam" EndValue="Bani clay / Bolinao clay loam" Caption="Bani clay / Bolinao clay loam" Visible="True" />
+          <Break StartColor="4006977" EndColor="4006977" StartValue="Bantay - Annam complex" EndValue="Bantay - Annam complex" Caption="Bantay - Annam complex" Visible="True" />
+          <Break StartColor="4109084" EndColor="4109084" StartValue="Bantay clay loam" EndValue="Bantay clay loam" Caption="Bantay clay loam" Visible="True" />
+          <Break StartColor="13087708" EndColor="13087708" StartValue="Bantay loam" EndValue="Bantay loam" Caption="Bantay loam" Visible="True" />
+          <Break StartColor="175537" EndColor="175537" StartValue="Bantay sandy loam" EndValue="Bantay sandy loam" Caption="Bantay sandy loam" Visible="True" />
+          <Break StartColor="16760282" EndColor="16760282" StartValue="Bantay silty clay loam" EndValue="Bantay silty clay loam" Caption="Bantay silty clay loam" Visible="True" />
+          <Break StartColor="12379876" EndColor="12379876" StartValue="Banto clay loam" EndValue="Banto clay loam" Caption="Banto clay loam" Visible="True" />
+          <Break StartColor="4266713" EndColor="4266713" StartValue="Bantog clay" EndValue="Bantog clay" Caption="Bantog clay" Visible="True" />
+          <Break StartColor="4671490" EndColor="4671490" StartValue="Bantog clay loam" EndValue="Bantog clay loam" Caption="Bantog clay loam" Visible="True" />
+          <Break StartColor="16189574" EndColor="16189574" StartValue="Bantog sandy loam" EndValue="Bantog sandy loam" Caption="Bantog sandy loam" Visible="True" />
+          <Break StartColor="13161279" EndColor="13161279" StartValue="Bantog silt loam" EndValue="Bantog silt loam" Caption="Bantog silt loam" Visible="True" />
+          <Break StartColor="3506177" EndColor="3506177" StartValue="Bantog silty clay" EndValue="Bantog silty clay" Caption="Bantog silty clay" Visible="True" />
+          <Break StartColor="66410" EndColor="66410" StartValue="Bantog silty clay loam" EndValue="Bantog silty clay loam" Caption="Bantog silty clay loam" Visible="True" />
+          <Break StartColor="7610720" EndColor="7610720" StartValue="Banto-Malalag complex" EndValue="Banto-Malalag complex" Caption="Banto-Malalag complex" Visible="True" />
+          <Break StartColor="5284651" EndColor="5284651" StartValue="Barcelona clay" EndValue="Barcelona clay" Caption="Barcelona clay" Visible="True" />
+          <Break StartColor="1844793" EndColor="1844793" StartValue="Barotac clay loam" EndValue="Barotac clay loam" Caption="Barotac clay loam" Visible="True" />
+          <Break StartColor="5600497" EndColor="5600497" StartValue="Barotac loam" EndValue="Barotac loam" Caption="Barotac loam" Visible="True" />
+          <Break StartColor="10303529" EndColor="10303529" StartValue="Barotac loam lowland phase" EndValue="Barotac loam lowland phase" Caption="Barotac loam lowland phase" Visible="True" />
+          <Break StartColor="7544612" EndColor="7544612" StartValue="Bascaran clay" EndValue="Bascaran clay" Caption="Bascaran clay" Visible="True" />
+          <Break StartColor="3998164" EndColor="3998164" StartValue="Bascaran sandy clay" EndValue="Bascaran sandy clay" Caption="Bascaran sandy clay" Visible="True" />
+          <Break StartColor="11040309" EndColor="11040309" StartValue="Bascaran sandy loam" EndValue="Bascaran sandy loam" Caption="Bascaran sandy loam" Visible="True" />
+          <Break StartColor="15643618" EndColor="15643618" StartValue="Batian gravelly / Batuan sandy loam" EndValue="Batian gravelly / Batuan sandy loam" Caption="Batian gravelly / Batuan sandy loam" Visible="True" />
+          <Break StartColor="7274148" EndColor="7274148" StartValue="Batuan - Faraon complex" EndValue="Batuan - Faraon complex" Caption="Batuan - Faraon complex" Visible="True" />
+          <Break StartColor="13112270" EndColor="13112270" StartValue="Batuan clay loam" EndValue="Batuan clay loam" Caption="Batuan clay loam" Visible="True" />
+          <Break StartColor="11018003" EndColor="11018003" StartValue="Bauang clay" EndValue="Bauang clay" Caption="Bauang clay" Visible="True" />
+          <Break StartColor="16031663" EndColor="16031663" StartValue="Bauang clay loam" EndValue="Bauang clay loam" Caption="Bauang clay loam" Visible="True" />
+          <Break StartColor="13014007" EndColor="13014007" StartValue="Bauang silty clay loam" EndValue="Bauang silty clay loam" Caption="Bauang silty clay loam" Visible="True" />
+          <Break StartColor="3534150" EndColor="3534150" StartValue="Bauyan clay loam" EndValue="Bauyan clay loam" Caption="Bauyan clay loam" Visible="True" />
+          <Break StartColor="10419094" EndColor="10419094" StartValue="Bay clay" EndValue="Bay clay" Caption="Bay clay" Visible="True" />
+          <Break StartColor="4741355" EndColor="4741355" StartValue="Bay clay loam / Bantay loam (Rizal)" EndValue="Bay clay loam / Bantay loam (Rizal)" Caption="Bay clay loam / Bantay loam (Rizal)" Visible="True" />
+          <Break StartColor="11966532" EndColor="11966532" StartValue="Bay loam" EndValue="Bay loam" Caption="Bay loam" Visible="True" />
+          <Break StartColor="14386234" EndColor="14386234" StartValue="Bayho clay loam" EndValue="Bayho clay loam" Caption="Bayho clay loam" Visible="True" />
+          <Break StartColor="15896100" EndColor="15896100" StartValue="Beach sand" EndValue="Beach sand" Caption="Beach sand" Visible="True" />
+          <Break StartColor="13203591" EndColor="13203591" StartValue="Beneng sandy clay" EndValue="Beneng sandy clay" Caption="Beneng sandy clay" Visible="True" />
+          <Break StartColor="14374104" EndColor="14374104" StartValue="Bigaa clay" EndValue="Bigaa clay" Caption="Bigaa clay" Visible="True" />
+          <Break StartColor="13841541" EndColor="13841541" StartValue="Bigaa clay loam" EndValue="Bigaa clay loam" Caption="Bigaa clay loam" Visible="True" />
+          <Break StartColor="16714469" EndColor="16714469" StartValue="Bigaa loam" EndValue="Bigaa loam" Caption="Bigaa loam" Visible="True" />
+          <Break StartColor="1967271" EndColor="1967271" StartValue="Bigaa sandy clay loam" EndValue="Bigaa sandy clay loam" Caption="Bigaa sandy clay loam" Visible="True" />
+          <Break StartColor="2028212" EndColor="2028212" StartValue="Bigaa sandy loam" EndValue="Bigaa sandy loam" Caption="Bigaa sandy loam" Visible="True" />
+          <Break StartColor="987421" EndColor="987421" StartValue="Bigaa silty clay loam" EndValue="Bigaa silty clay loam" Caption="Bigaa silty clay loam" Visible="True" />
+          <Break StartColor="1657975" EndColor="1657975" StartValue="Binangonan clay" EndValue="Binangonan clay" Caption="Binangonan clay" Visible="True" />
+          <Break StartColor="7001215" EndColor="7001215" StartValue="Binangonan clay (Lowland Phase)" EndValue="Binangonan clay (Lowland Phase)" Caption="Binangonan clay (Lowland Phase)" Visible="True" />
+          <Break StartColor="14689626" EndColor="14689626" StartValue="Binidayan silt loam" EndValue="Binidayan silt loam" Caption="Binidayan silt loam" Visible="True" />
+          <Break StartColor="11892104" EndColor="11892104" StartValue="Bituin clay" EndValue="Bituin clay" Caption="Bituin clay" Visible="True" />
+          <Break StartColor="14293967" EndColor="14293967" StartValue="Boac clay" EndValue="Boac clay" Caption="Boac clay" Visible="True" />
+          <Break StartColor="5260138" EndColor="5260138" StartValue="Boac clay loam" EndValue="Boac clay loam" Caption="Boac clay loam" Visible="True" />
+          <Break StartColor="7141331" EndColor="7141331" StartValue="Bog deep" EndValue="Bog deep" Caption="Bog deep" Visible="True" />
+          <Break StartColor="12699039" EndColor="12699039" StartValue="Bolanacan clay" EndValue="Bolanacan clay" Caption="Bolanacan clay" Visible="True" />
+          <Break StartColor="11772786" EndColor="11772786" StartValue="Bolinao clay" EndValue="Bolinao clay" Caption="Bolinao clay" Visible="True" />
+          <Break StartColor="2693195" EndColor="2693195" StartValue="Bolinao clay (Steep phase)" EndValue="Bolinao clay (Steep phase)" Caption="Bolinao clay (Steep phase)" Visible="True" />
+          <Break StartColor="10023173" EndColor="10023173" StartValue="Bolinao clay loam" EndValue="Bolinao clay loam" Caption="Bolinao clay loam" Visible="True" />
+          <Break StartColor="14321286" EndColor="14321286" StartValue="Bolinao loam" EndValue="Bolinao loam" Caption="Bolinao loam" Visible="True" />
+          <Break StartColor="11677653" EndColor="11677653" StartValue="Bolinao silt loam" EndValue="Bolinao silt loam" Caption="Bolinao silt loam" Visible="True" />
+          <Break StartColor="8630824" EndColor="8630824" StartValue="Bolog clay" EndValue="Bolog clay" Caption="Bolog clay" Visible="True" />
+          <Break StartColor="12415538" EndColor="12415538" StartValue="Brooke's clay" EndValue="Brooke's clay" Caption="Brooke's clay" Visible="True" />
+          <Break StartColor="7577835" EndColor="7577835" StartValue="Brooke's clay loam" EndValue="Brooke's clay loam" Caption="Brooke's clay loam" Visible="True" />
+          <Break StartColor="9512465" EndColor="9512465" StartValue="Brooke's loam" EndValue="Brooke's loam" Caption="Brooke's loam" Visible="True" />
+          <Break StartColor="14514692" EndColor="14514692" StartValue="Buayan clay loam" EndValue="Buayan clay loam" Caption="Buayan clay loam" Visible="True" />
+          <Break StartColor="14239954" EndColor="14239954" StartValue="Buenavista clay loam" EndValue="Buenavista clay loam" Caption="Buenavista clay loam" Visible="True" />
+          <Break StartColor="2552190" EndColor="2552190" StartValue="Buenavista sandy clay loam" EndValue="Buenavista sandy clay loam" Caption="Buenavista sandy clay loam" Visible="True" />
+          <Break StartColor="18378" EndColor="18378" StartValue="Buenavista silt loam" EndValue="Buenavista silt loam" Caption="Buenavista silt loam" Visible="True" />
+          <Break StartColor="10585595" EndColor="10585595" StartValue="Bugko loamy sand" EndValue="Bugko loamy sand" Caption="Bugko loamy sand" Visible="True" />
+          <Break StartColor="233877" EndColor="233877" StartValue="Bugko sandy loam" EndValue="Bugko sandy loam" Caption="Bugko sandy loam" Visible="True" />
+          <Break StartColor="4986543" EndColor="4986543" StartValue="Buguay loamy sand" EndValue="Buguay loamy sand" Caption="Buguay loamy sand" Visible="True" />
+          <Break StartColor="3352673" EndColor="3352673" StartValue="Bulacan clay loam" EndValue="Bulacan clay loam" Caption="Bulacan clay loam" Visible="True" />
+          <Break StartColor="6457508" EndColor="6457508" StartValue="Bulacan sandy clay loam" EndValue="Bulacan sandy clay loam" Caption="Bulacan sandy clay loam" Visible="True" />
+          <Break StartColor="972723" EndColor="972723" StartValue="Buldun sandy loam" EndValue="Buldun sandy loam" Caption="Buldun sandy loam" Visible="True" />
+          <Break StartColor="14644398" EndColor="14644398" StartValue="Bulusan loam" EndValue="Bulusan loam" Caption="Bulusan loam" Visible="True" />
+          <Break StartColor="11397976" EndColor="11397976" StartValue="Bulusan sandy loam" EndValue="Bulusan sandy loam" Caption="Bulusan sandy loam" Visible="True" />
+          <Break StartColor="5636771" EndColor="5636771" StartValue="Burgos clay" EndValue="Burgos clay" Caption="Burgos clay" Visible="True" />
+          <Break StartColor="8415863" EndColor="8415863" StartValue="Butuan clay" EndValue="Butuan clay" Caption="Butuan clay" Visible="True" />
+          <Break StartColor="9800864" EndColor="9800864" StartValue="Butuan loam" EndValue="Butuan loam" Caption="Butuan loam" Visible="True" />
+          <Break StartColor="5128965" EndColor="5128965" StartValue="Buyagan clay loam" EndValue="Buyagan clay loam" Caption="Buyagan clay loam" Visible="True" />
+          <Break StartColor="1483660" EndColor="1483660" StartValue="Cabahuan clay" EndValue="Cabahuan clay" Caption="Cabahuan clay" Visible="True" />
+          <Break StartColor="11860235" EndColor="11860235" StartValue="Cabangan clay" EndValue="Cabangan clay" Caption="Cabangan clay" Visible="True" />
+          <Break StartColor="3505950" EndColor="3505950" StartValue="Cabangan clay loam" EndValue="Cabangan clay loam" Caption="Cabangan clay loam" Visible="True" />
+          <Break StartColor="10135418" EndColor="10135418" StartValue="Cabangan sandy loam" EndValue="Cabangan sandy loam" Caption="Cabangan sandy loam" Visible="True" />
+          <Break StartColor="9634559" EndColor="9634559" StartValue="Cadiz gravelly loam" EndValue="Cadiz gravelly loam" Caption="Cadiz gravelly loam" Visible="True" />
+          <Break StartColor="5141636" EndColor="5141636" StartValue="Calape clay loam" EndValue="Calape clay loam" Caption="Calape clay loam" Visible="True" />
+          <Break StartColor="3989234" EndColor="3989234" StartValue="Calatagan clay loam" EndValue="Calatagan clay loam" Caption="Calatagan clay loam" Visible="True" />
+          <Break StartColor="5035186" EndColor="5035186" StartValue="Calauag clay" EndValue="Calauag clay" Caption="Calauag clay" Visible="True" />
+          <Break StartColor="5996289" EndColor="5996289" StartValue="Calumpang clay" EndValue="Calumpang clay" Caption="Calumpang clay" Visible="True" />
+          <Break StartColor="14624048" EndColor="14624048" StartValue="Calumpang silty clay loam" EndValue="Calumpang silty clay loam" Caption="Calumpang silty clay loam" Visible="True" />
+          <Break StartColor="11777813" EndColor="11777813" StartValue="Camansa clay" EndValue="Camansa clay" Caption="Camansa clay" Visible="True" />
+          <Break StartColor="1738753" EndColor="1738753" StartValue="Camansa sandy" EndValue="Camansa sandy" Caption="Camansa sandy" Visible="True" />
+          <Break StartColor="947607" EndColor="947607" StartValue="Camasan sandy clay loam" EndValue="Camasan sandy clay loam" Caption="Camasan sandy clay loam" Visible="True" />
+          <Break StartColor="14158878" EndColor="14158878" StartValue="Camiguin clay" EndValue="Camiguin clay" Caption="Camiguin clay" Visible="True" />
+          <Break StartColor="5430754" EndColor="5430754" StartValue="Candaba clay loam" EndValue="Candaba clay loam" Caption="Candaba clay loam" Visible="True" />
+          <Break StartColor="13204660" EndColor="13204660" StartValue="Candaba silt loam" EndValue="Candaba silt loam" Caption="Candaba silt loam" Visible="True" />
+          <Break StartColor="1811368" EndColor="1811368" StartValue="Candijay clay" EndValue="Candijay clay" Caption="Candijay clay" Visible="True" />
+          <Break StartColor="11827694" EndColor="11827694" StartValue="Carig clay loam" EndValue="Carig clay loam" Caption="Carig clay loam" Visible="True" />
+          <Break StartColor="13727647" EndColor="13727647" StartValue="Carig loam" EndValue="Carig loam" Caption="Carig loam" Visible="True" />
+          <Break StartColor="7643408" EndColor="7643408" StartValue="Carmona clay loam" EndValue="Carmona clay loam" Caption="Carmona clay loam" Visible="True" />
+          <Break StartColor="12442644" EndColor="12442644" StartValue="Carmona clay loam (Steep Phase)" EndValue="Carmona clay loam (Steep Phase)" Caption="Carmona clay loam (Steep Phase)" Visible="True" />
+          <Break StartColor="6418394" EndColor="6418394" StartValue="Carmona sandy clay loam" EndValue="Carmona sandy clay loam" Caption="Carmona sandy clay loam" Visible="True" />
+          <Break StartColor="9358127" EndColor="9358127" StartValue="Caromatan silt loam" EndValue="Caromatan silt loam" Caption="Caromatan silt loam" Visible="True" />
+          <Break StartColor="1679210" EndColor="1679210" StartValue="Casiguran clay loam" EndValue="Casiguran clay loam" Caption="Casiguran clay loam" Visible="True" />
+          <Break StartColor="4058384" EndColor="4058384" StartValue="Castilla - Bolinao complex" EndValue="Castilla - Bolinao complex" Caption="Castilla - Bolinao complex" Visible="True" />
+          <Break StartColor="15611910" EndColor="15611910" StartValue="Castilla clay loam" EndValue="Castilla clay loam" Caption="Castilla clay loam" Visible="True" />
+          <Break StartColor="6638608" EndColor="6638608" StartValue="Castillo clay" EndValue="Castillo clay" Caption="Castillo clay" Visible="True" />
+          <Break StartColor="6589089" EndColor="6589089" StartValue="Cataingan clay" EndValue="Cataingan clay" Caption="Cataingan clay" Visible="True" />
+          <Break StartColor="6409923" EndColor="6409923" StartValue="Catanauan clay loam" EndValue="Catanauan clay loam" Caption="Catanauan clay loam" Visible="True" />
+          <Break StartColor="8045315" EndColor="8045315" StartValue="Catbalogan clay loam" EndValue="Catbalogan clay loam" Caption="Catbalogan clay loam" Visible="True" />
+          <Break StartColor="13296026" EndColor="13296026" StartValue="Catubig clay loam" EndValue="Catubig clay loam" Caption="Catubig clay loam" Visible="True" />
+          <Break StartColor="12576452" EndColor="12576452" StartValue="Catubig loam" EndValue="Catubig loam" Caption="Catubig loam" Visible="True" />
+          <Break StartColor="3280167" EndColor="3280167" StartValue="Cauayan clay" EndValue="Cauayan clay" Caption="Cauayan clay" Visible="True" />
+          <Break StartColor="6047656" EndColor="6047656" StartValue="Cauayan clay loam" EndValue="Cauayan clay loam" Caption="Cauayan clay loam" Visible="True" />
+          <Break StartColor="2848634" EndColor="2848634" StartValue="Cauayan loam" EndValue="Cauayan loam" Caption="Cauayan loam" Visible="True" />
+          <Break StartColor="10083584" EndColor="10083584" StartValue="Cauayan sandy loam" EndValue="Cauayan sandy loam" Caption="Cauayan sandy loam" Visible="True" />
+          <Break StartColor="16217881" EndColor="16217881" StartValue="Cervantes clay loam" EndValue="Cervantes clay loam" Caption="Cervantes clay loam" Visible="True" />
+          <Break StartColor="9343252" EndColor="9343252" StartValue="Cervantes loam" EndValue="Cervantes loam" Caption="Cervantes loam" Visible="True" />
+          <Break StartColor="8636523" EndColor="8636523" StartValue="Cervantes sandy clay loam" EndValue="Cervantes sandy clay loam" Caption="Cervantes sandy clay loam" Visible="True" />
+          <Break StartColor="16105418" EndColor="16105418" StartValue="Cervantes sandy loam" EndValue="Cervantes sandy loam" Caption="Cervantes sandy loam" Visible="True" />
+          <Break StartColor="7145408" EndColor="7145408" StartValue="Coron clay loam" EndValue="Coron clay loam" Caption="Coron clay loam" Visible="True" />
+          <Break StartColor="6270974" EndColor="6270974" StartValue="Culis loam" EndValue="Culis loam" Caption="Culis loam" Visible="True" />
+          <Break StartColor="4353335" EndColor="4353335" StartValue="Culis sandy clay loam" EndValue="Culis sandy clay loam" Caption="Culis sandy clay loam" Visible="True" />
+          <Break StartColor="3652173" EndColor="3652173" StartValue="Daclan clay loam" EndValue="Daclan clay loam" Caption="Daclan clay loam" Visible="True" />
+          <Break StartColor="4592424" EndColor="4592424" StartValue="Dadiangas loamy sand" EndValue="Dadiangas loamy sand" Caption="Dadiangas loamy sand" Visible="True" />
+          <Break StartColor="5784384" EndColor="5784384" StartValue="Dadiangas sandy loam" EndValue="Dadiangas sandy loam" Caption="Dadiangas sandy loam" Visible="True" />
+          <Break StartColor="6038253" EndColor="6038253" StartValue="Dagami clay loam" EndValue="Dagami clay loam" Caption="Dagami clay loam" Visible="True" />
+          <Break StartColor="2808342" EndColor="2808342" StartValue="Dalican clay loam" EndValue="Dalican clay loam" Caption="Dalican clay loam" Visible="True" />
+          <Break StartColor="14988054" EndColor="14988054" StartValue="Dauin clay" EndValue="Dauin clay" Caption="Dauin clay" Visible="True" />
+          <Break StartColor="7217571" EndColor="7217571" StartValue="Dauin sandy loam&quot;" EndValue="Dauin sandy loam&quot;" Caption="Dauin sandy loam&quot;" Visible="True" />
+          <Break StartColor="11491172" EndColor="11491172" StartValue="Dinagat clay loam" EndValue="Dinagat clay loam" Caption="Dinagat clay loam" Visible="True" />
+          <Break StartColor="5522429" EndColor="5522429" StartValue="Dohinob gravelty silt loam" EndValue="Dohinob gravelty silt loam" Caption="Dohinob gravelty silt loam" Visible="True" />
+          <Break StartColor="5731372" EndColor="5731372" StartValue="Dolongan loamy sand" EndValue="Dolongan loamy sand" Caption="Dolongan loamy sand" Visible="True" />
+          <Break StartColor="6892267" EndColor="6892267" StartValue="Dolores clay loam" EndValue="Dolores clay loam" Caption="Dolores clay loam" Visible="True" />
+          <Break StartColor="10158062" EndColor="10158062" StartValue="Donsol sandy clay" EndValue="Donsol sandy clay" Caption="Donsol sandy clay" Visible="True" />
+          <Break StartColor="8170582" EndColor="8170582" StartValue="Dune land (Sand dunes)" EndValue="Dune land (Sand dunes)" Caption="Dune land (Sand dunes)" Visible="True" />
+          <Break StartColor="9649986" EndColor="9649986" StartValue="España loam, stony phase" EndValue="España loam, stony phase" Caption="España loam, stony phase" Visible="True" />
+          <Break StartColor="9726758" EndColor="9726758" StartValue="España sandy clay loam" EndValue="España sandy clay loam" Caption="España sandy clay loam" Visible="True" />
+          <Break StartColor="14324833" EndColor="14324833" StartValue="Faraon - Bolinao complex" EndValue="Faraon - Bolinao complex" Caption="Faraon - Bolinao complex" Visible="True" />
+          <Break StartColor="8134488" EndColor="8134488" StartValue="Faraon clay" EndValue="Faraon clay" Caption="Faraon clay" Visible="True" />
+          <Break StartColor="16089859" EndColor="16089859" StartValue="Faraon clay (Steep phase)" EndValue="Faraon clay (Steep phase)" Caption="Faraon clay (Steep phase)" Visible="True" />
+          <Break StartColor="10844209" EndColor="10844209" StartValue="Faraon clay / River wash" EndValue="Faraon clay / River wash" Caption="Faraon clay / River wash" Visible="True" />
+          <Break StartColor="10971459" EndColor="10971459" StartValue="Faraon clay loam" EndValue="Faraon clay loam" Caption="Faraon clay loam" Visible="True" />
+          <Break StartColor="4517324" EndColor="4517324" StartValue="Faraon sandy clay" EndValue="Faraon sandy clay" Caption="Faraon sandy clay" Visible="True" />
+          <Break StartColor="16230853" EndColor="16230853" StartValue="Faraon sandy loam" EndValue="Faraon sandy loam" Caption="Faraon sandy loam" Visible="True" />
+          <Break StartColor="15599242" EndColor="15599242" StartValue="Filled up soil" EndValue="Filled up soil" Caption="Filled up soil" Visible="True" />
+          <Break StartColor="996692" EndColor="996692" StartValue="Gasan clay loam" EndValue="Gasan clay loam" Caption="Gasan clay loam" Visible="True" />
+          <Break StartColor="3143674" EndColor="3143674" StartValue="Gasan loamy sand" EndValue="Gasan loamy sand" Caption="Gasan loamy sand" Visible="True" />
+          <Break StartColor="3389613" EndColor="3389613" StartValue="Glan clay loam" EndValue="Glan clay loam" Caption="Glan clay loam" Visible="True" />
+          <Break StartColor="12895836" EndColor="12895836" StartValue="Gravel deposit" EndValue="Gravel deposit" Caption="Gravel deposit" Visible="True" />
+          <Break StartColor="9558849" EndColor="9558849" StartValue="Guadalupe clay" EndValue="Guadalupe clay" Caption="Guadalupe clay" Visible="True" />
+          <Break StartColor="8986064" EndColor="8986064" StartValue="Guadalupe clay adobe" EndValue="Guadalupe clay adobe" Caption="Guadalupe clay adobe" Visible="True" />
+          <Break StartColor="9848579" EndColor="9848579" StartValue="Guadalupe clay loam" EndValue="Guadalupe clay loam" Caption="Guadalupe clay loam" Visible="True" />
+          <Break StartColor="3180999" EndColor="3180999" StartValue="Guadalupe loam" EndValue="Guadalupe loam" Caption="Guadalupe loam" Visible="True" />
+          <Break StartColor="16547493" EndColor="16547493" StartValue="Guadalupe sand" EndValue="Guadalupe sand" Caption="Guadalupe sand" Visible="True" />
+          <Break StartColor="6356309" EndColor="6356309" StartValue="Guadalupe silt loam" EndValue="Guadalupe silt loam" Caption="Guadalupe silt loam" Visible="True" />
+          <Break StartColor="14984146" EndColor="14984146" StartValue="Guilada sandy clay loam" EndValue="Guilada sandy clay loam" Caption="Guilada sandy clay loam" Visible="True" />
+          <Break StartColor="13930864" EndColor="13930864" StartValue="Guimaras gravelly loam" EndValue="Guimaras gravelly loam" Caption="Guimaras gravelly loam" Visible="True" />
+          <Break StartColor="9094211" EndColor="9094211" StartValue="Guimaras sandy clay loam" EndValue="Guimaras sandy clay loam" Caption="Guimaras sandy clay loam" Visible="True" />
+          <Break StartColor="9041996" EndColor="9041996" StartValue="Guimbalaon clay" EndValue="Guimbalaon clay" Caption="Guimbalaon clay" Visible="True" />
+          <Break StartColor="7619011" EndColor="7619011" StartValue="Guimbalaon clay loam" EndValue="Guimbalaon clay loam" Caption="Guimbalaon clay loam" Visible="True" />
+          <Break StartColor="2110793" EndColor="2110793" StartValue="Guimbalaon clay loam (eroded phase)" EndValue="Guimbalaon clay loam (eroded phase)" Caption="Guimbalaon clay loam (eroded phase)" Visible="True" />
+          <Break StartColor="3697025" EndColor="3697025" StartValue="Guimbalaon clay loam stony phase" EndValue="Guimbalaon clay loam stony phase" Caption="Guimbalaon clay loam stony phase" Visible="True" />
+          <Break StartColor="16081707" EndColor="16081707" StartValue="Guimbalaon fine sandy loam" EndValue="Guimbalaon fine sandy loam" Caption="Guimbalaon fine sandy loam" Visible="True" />
+          <Break StartColor="2385467" EndColor="2385467" StartValue="Guimbalaon gravelly clay loam" EndValue="Guimbalaon gravelly clay loam" Caption="Guimbalaon gravelly clay loam" Visible="True" />
+          <Break StartColor="11843744" EndColor="11843744" StartValue="Guimbalaon gravelly loam" EndValue="Guimbalaon gravelly loam" Caption="Guimbalaon gravelly loam" Visible="True" />
+          <Break StartColor="6752296" EndColor="6752296" StartValue="Guimbalaon loam" EndValue="Guimbalaon loam" Caption="Guimbalaon loam" Visible="True" />
+          <Break StartColor="3541053" EndColor="3541053" StartValue="Guimbalaon sandy" EndValue="Guimbalaon sandy" Caption="Guimbalaon sandy" Visible="True" />
+          <Break StartColor="10228914" EndColor="10228914" StartValue="Guimbalaon-Annam complex" EndValue="Guimbalaon-Annam complex" Caption="Guimbalaon-Annam complex" Visible="True" />
+          <Break StartColor="1534573" EndColor="1534573" StartValue="Guinaong loam" EndValue="Guinaong loam" Caption="Guinaong loam" Visible="True" />
+          <Break StartColor="12067930" EndColor="12067930" StartValue="Guingua silty clay loam" EndValue="Guingua silty clay loam" Caption="Guingua silty clay loam" Visible="True" />
+          <Break StartColor="5037846" EndColor="5037846" StartValue="Guinobatan sandy loam" EndValue="Guinobatan sandy loam" Caption="Guinobatan sandy loam" Visible="True" />
+          <Break StartColor="13317974" EndColor="13317974" StartValue="Halsema clay loam" EndValue="Halsema clay loam" Caption="Halsema clay loam" Visible="True" />
+          <Break StartColor="10026712" EndColor="10026712" StartValue="Hamani loam" EndValue="Hamani loam" Caption="Hamani loam" Visible="True" />
+          <Break StartColor="2391251" EndColor="2391251" StartValue="Himayangan clay loam" EndValue="Himayangan clay loam" Caption="Himayangan clay loam" Visible="True" />
+          <Break StartColor="11801143" EndColor="11801143" StartValue="Himayangan sandy clay loam" EndValue="Himayangan sandy clay loam" Caption="Himayangan sandy clay loam" Visible="True" />
+          <Break StartColor="10424544" EndColor="10424544" StartValue="Hydrosol" EndValue="Hydrosol" Caption="Hydrosol" Visible="True" />
+          <Break StartColor="8662538" EndColor="8662538" StartValue="Ibaan clay loam" EndValue="Ibaan clay loam" Caption="Ibaan clay loam" Visible="True" />
+          <Break StartColor="5935204" EndColor="5935204" StartValue="Ibaan loam" EndValue="Ibaan loam" Caption="Ibaan loam" Visible="True" />
+          <Break StartColor="11742466" EndColor="11742466" StartValue="Ibaan loam (Gravelly Phase)" EndValue="Ibaan loam (Gravelly Phase)" Caption="Ibaan loam (Gravelly Phase)" Visible="True" />
+          <Break StartColor="16703413" EndColor="16703413" StartValue="Ilagan loam" EndValue="Ilagan loam" Caption="Ilagan loam" Visible="True" />
+          <Break StartColor="9080116" EndColor="9080116" StartValue="Ilagan sandy loam (eroded phase)" EndValue="Ilagan sandy loam (eroded phase)" Caption="Ilagan sandy loam (eroded phase)" Visible="True" />
+          <Break StartColor="6057643" EndColor="6057643" StartValue="Inabanga clay" EndValue="Inabanga clay" Caption="Inabanga clay" Visible="True" />
+          <Break StartColor="14591198" EndColor="14591198" StartValue="Indan loam" EndValue="Indan loam" Caption="Indan loam" Visible="True" />
+          <Break StartColor="972608" EndColor="972608" StartValue="Indan silt loam" EndValue="Indan silt loam" Caption="Indan silt loam" Visible="True" />
+          <Break StartColor="6990819" EndColor="6990819" StartValue="Irosin sandy loam" EndValue="Irosin sandy loam" Caption="Irosin sandy loam" Visible="True" />
+          <Break StartColor="6079000" EndColor="6079000" StartValue="Irosin silt loam" EndValue="Irosin silt loam" Caption="Irosin silt loam" Visible="True" />
+          <Break StartColor="15567534" EndColor="15567534" StartValue="Isabela clay" EndValue="Isabela clay" Caption="Isabela clay" Visible="True" />
+          <Break StartColor="10567822" EndColor="10567822" StartValue="Isabela loam" EndValue="Isabela loam" Caption="Isabela loam" Visible="True" />
+          <Break StartColor="14970757" EndColor="14970757" StartValue="Isabela sandy loam" EndValue="Isabela sandy loam" Caption="Isabela sandy loam" Visible="True" />
+          <Break StartColor="13835804" EndColor="13835804" StartValue="Jamoyaon clay loam" EndValue="Jamoyaon clay loam" Caption="Jamoyaon clay loam" Visible="True" />
+          <Break StartColor="12685168" EndColor="12685168" StartValue="Jasaan clay" EndValue="Jasaan clay" Caption="Jasaan clay" Visible="True" />
+          <Break StartColor="124202" EndColor="124202" StartValue="Jasaan silt loam; Jasaan clay loam" EndValue="Jasaan silt loam; Jasaan clay loam" Caption="Jasaan silt loam; Jasaan clay loam" Visible="True" />
+          <Break StartColor="14659383" EndColor="14659383" StartValue="Jasaan-Bolinao complex" EndValue="Jasaan-Bolinao complex" Caption="Jasaan-Bolinao complex" Visible="True" />
+          <Break StartColor="14910641" EndColor="14910641" StartValue="Kabacan clay" EndValue="Kabacan clay" Caption="Kabacan clay" Visible="True" />
+          <Break StartColor="11680561" EndColor="11680561" StartValue="Kabacan clay loam" EndValue="Kabacan clay loam" Caption="Kabacan clay loam" Visible="True" />
+          <Break StartColor="14469178" EndColor="14469178" StartValue="Kabatohan loam" EndValue="Kabatohan loam" Caption="Kabatohan loam" Visible="True" />
+          <Break StartColor="14226641" EndColor="14226641" StartValue="Kapatagan clay" EndValue="Kapatagan clay" Caption="Kapatagan clay" Visible="True" />
+          <Break StartColor="15612947" EndColor="15612947" StartValue="Kicharo clay loam" EndValue="Kicharo clay loam" Caption="Kicharo clay loam" Visible="True" />
+          <Break StartColor="1993016" EndColor="1993016" StartValue="Kidapawan clay;  Kidapawan clay loam" EndValue="Kidapawan clay;  Kidapawan clay loam" Caption="Kidapawan clay;  Kidapawan clay loam" Visible="True" />
+          <Break StartColor="9504473" EndColor="9504473" StartValue="Kidapawan loam" EndValue="Kidapawan loam" Caption="Kidapawan loam" Visible="True" />
+          <Break StartColor="9317684" EndColor="9317684" StartValue="Kidapawan sandy clay loam" EndValue="Kidapawan sandy clay loam" Caption="Kidapawan sandy clay loam" Visible="True" />
+          <Break StartColor="7852979" EndColor="7852979" StartValue="Kitcharao silt loam" EndValue="Kitcharao silt loam" Caption="Kitcharao silt loam" Visible="True" />
+          <Break StartColor="3016305" EndColor="3016305" StartValue="Kudarangan clay" EndValue="Kudarangan clay" Caption="Kudarangan clay" Visible="True" />
+          <Break StartColor="10224311" EndColor="10224311" StartValue="Kudurungan clay" EndValue="Kudurungan clay" Caption="Kudurungan clay" Visible="True" />
+          <Break StartColor="15454417" EndColor="15454417" StartValue="La Castellana clay loam" EndValue="La Castellana clay loam" Caption="La Castellana clay loam" Visible="True" />
+          <Break StartColor="3699330" EndColor="3699330" StartValue="La Castellana clay loam, steep phase" EndValue="La Castellana clay loam, steep phase" Caption="La Castellana clay loam, steep phase" Visible="True" />
+          <Break StartColor="15272474" EndColor="15272474" StartValue="La Paz fine sand" EndValue="La Paz fine sand" Caption="La Paz fine sand" Visible="True" />
+          <Break StartColor="6281199" EndColor="6281199" StartValue="La Paz fine sandy loam" EndValue="La Paz fine sandy loam" Caption="La Paz fine sandy loam" Visible="True" />
+          <Break StartColor="3520637" EndColor="3520637" StartValue="La Paz sand" EndValue="La Paz sand" Caption="La Paz sand" Visible="True" />
+          <Break StartColor="8610146" EndColor="8610146" StartValue="La Paz silt loam" EndValue="La Paz silt loam" Caption="La Paz silt loam" Visible="True" />
+          <Break StartColor="8304044" EndColor="8304044" StartValue="La Trinidad loam" EndValue="La Trinidad loam" Caption="La Trinidad loam" Visible="True" />
+          <Break StartColor="1246505" EndColor="1246505" StartValue="Lagawe silty clay loam" EndValue="Lagawe silty clay loam" Caption="Lagawe silty clay loam" Visible="True" />
+          <Break StartColor="7691379" EndColor="7691379" StartValue="Lala sandy loam" EndValue="Lala sandy loam" Caption="Lala sandy loam" Visible="True" />
+          <Break StartColor="14539491" EndColor="14539491" StartValue="Langa silty clay loam" EndValue="Langa silty clay loam" Caption="Langa silty clay loam" Visible="True" />
+          <Break StartColor="13504012" EndColor="13504012" StartValue="Langkong sandy" EndValue="Langkong sandy" Caption="Langkong sandy" Visible="True" />
+          <Break StartColor="872943" EndColor="872943" StartValue="Lava flow" EndValue="Lava flow" Caption="Lava flow" Visible="True" />
+          <Break StartColor="2493866" EndColor="2493866" StartValue="Laylay sandy clay loam" EndValue="Laylay sandy clay loam" Caption="Laylay sandy clay loam" Visible="True" />
+          <Break StartColor="14095174" EndColor="14095174" StartValue="Laylay sandy loam" EndValue="Laylay sandy loam" Caption="Laylay sandy loam" Visible="True" />
+          <Break StartColor="3709170" EndColor="3709170" StartValue="Legaspi fine sandy loam" EndValue="Legaspi fine sandy loam" Caption="Legaspi fine sandy loam" Visible="True" />
+          <Break StartColor="3473235" EndColor="3473235" StartValue="Legaspi fine sandy loam, stony phase" EndValue="Legaspi fine sandy loam, stony phase" Caption="Legaspi fine sandy loam, stony phase" Visible="True" />
+          <Break StartColor="2183768" EndColor="2183768" StartValue="Legaspi sandy clay loam" EndValue="Legaspi sandy clay loam" Caption="Legaspi sandy clay loam" Visible="True" />
+          <Break StartColor="3179951" EndColor="3179951" StartValue="Legua clay loam" EndValue="Legua clay loam" Caption="Legua clay loam" Visible="True" />
+          <Break StartColor="11032216" EndColor="11032216" StartValue="Libertad clay" EndValue="Libertad clay" Caption="Libertad clay" Visible="True" />
+          <Break StartColor="12663232" EndColor="12663232" StartValue="Libi loam" EndValue="Libi loam" Caption="Libi loam" Visible="True" />
+          <Break StartColor="13076422" EndColor="13076422" StartValue="Libon silty clay" EndValue="Libon silty clay" Caption="Libon silty clay" Visible="True" />
+          <Break StartColor="2720427" EndColor="2720427" StartValue="Ligao loam" EndValue="Ligao loam" Caption="Ligao loam" Visible="True" />
+          <Break StartColor="14811815" EndColor="14811815" StartValue="Lipa loam" EndValue="Lipa loam" Caption="Lipa loam" Visible="True" />
+          <Break StartColor="3847457" EndColor="3847457" StartValue="Lipa loam (Deep phase)" EndValue="Lipa loam (Deep phase)" Caption="Lipa loam (Deep phase)" Visible="True" />
+          <Break StartColor="7386198" EndColor="7386198" StartValue="Lipa loam, steep phase" EndValue="Lipa loam, steep phase" Caption="Lipa loam, steep phase" Visible="True" />
+          <Break StartColor="2618853" EndColor="2618853" StartValue="Lonos loam" EndValue="Lonos loam" Caption="Lonos loam" Visible="True" />
+          <Break StartColor="755806" EndColor="755806" StartValue="Lonos sandy loam" EndValue="Lonos sandy loam" Caption="Lonos sandy loam" Visible="True" />
+          <Break StartColor="11053872" EndColor="11053872" StartValue="Lourdes clay loam" EndValue="Lourdes clay loam" Caption="Lourdes clay loam" Visible="True" />
+          <Break StartColor="1354448" EndColor="1354448" StartValue="Luciana loam" EndValue="Luciana loam" Caption="Luciana loam" Visible="True" />
+          <Break StartColor="9337637" EndColor="9337637" StartValue="Lugo clay" EndValue="Lugo clay" Caption="Lugo clay" Visible="True" />
+          <Break StartColor="7915524" EndColor="7915524" StartValue="Lugo clay loam" EndValue="Lugo clay loam" Caption="Lugo clay loam" Visible="True" />
+          <Break StartColor="2161439" EndColor="2161439" StartValue="Luisiana - Annam complex" EndValue="Luisiana - Annam complex" Caption="Luisiana - Annam complex" Visible="True" />
+          <Break StartColor="3695860" EndColor="3695860" StartValue="Luisiana clay" EndValue="Luisiana clay" Caption="Luisiana clay" Visible="True" />
+          <Break StartColor="14393993" EndColor="14393993" StartValue="Luisiana clay loam" EndValue="Luisiana clay loam" Caption="Luisiana clay loam" Visible="True" />
+          <Break StartColor="12160398" EndColor="12160398" StartValue="Luisiana fine sand" EndValue="Luisiana fine sand" Caption="Luisiana fine sand" Visible="True" />
+          <Break StartColor="7379564" EndColor="7379564" StartValue="Luisiana sandy clay loam" EndValue="Luisiana sandy clay loam" Caption="Luisiana sandy clay loam" Visible="True" />
+          <Break StartColor="1743934" EndColor="1743934" StartValue="Luisita fine sandy loam" EndValue="Luisita fine sandy loam" Caption="Luisita fine sandy loam" Visible="True" />
+          <Break StartColor="229382" EndColor="229382" StartValue="Luisita sandy loam" EndValue="Luisita sandy loam" Caption="Luisita sandy loam" Visible="True" />
+          <Break StartColor="15255700" EndColor="15255700" StartValue="Lutayan sandy loam" EndValue="Lutayan sandy loam" Caption="Lutayan sandy loam" Visible="True" />
+          <Break StartColor="2571776" EndColor="2571776" StartValue="Maapag clay" EndValue="Maapag clay" Caption="Maapag clay" Visible="True" />
+          <Break StartColor="2075634" EndColor="2075634" StartValue="Maasin clay" EndValue="Maasin clay" Caption="Maasin clay" Visible="True" />
+          <Break StartColor="817184" EndColor="817184" StartValue="Mabini sandy clay loam" EndValue="Mabini sandy clay loam" Caption="Mabini sandy clay loam" Visible="True" />
+          <Break StartColor="3084657" EndColor="3084657" StartValue="Macabara sandy loam" EndValue="Macabara sandy loam" Caption="Macabara sandy loam" Visible="True" />
+          <Break StartColor="13257353" EndColor="13257353" StartValue="Macabare clay loam" EndValue="Macabare clay loam" Caption="Macabare clay loam" Visible="True" />
+          <Break StartColor="8103283" EndColor="8103283" StartValue="Macolod - PIli complex" EndValue="Macolod - PIli complex" Caption="Macolod - PIli complex" Visible="True" />
+          <Break StartColor="15222759" EndColor="15222759" StartValue="Macolod clay" EndValue="Macolod clay" Caption="Macolod clay" Visible="True" />
+          <Break StartColor="9985976" EndColor="9985976" StartValue="Macolod clay loam" EndValue="Macolod clay loam" Caption="Macolod clay loam" Visible="True" />
+          <Break StartColor="5634586" EndColor="5634586" StartValue="Macolod clay loam (Steep phase)" EndValue="Macolod clay loam (Steep phase)" Caption="Macolod clay loam (Steep phase)" Visible="True" />
+          <Break StartColor="2274497" EndColor="2274497" StartValue="Macolod sandy loam" EndValue="Macolod sandy loam" Caption="Macolod sandy loam" Visible="True" />
+          <Break StartColor="9983286" EndColor="9983286" StartValue="Macolod soil (undifferentiated" EndValue="Macolod soil (undifferentiated" Caption="Macolod soil (undifferentiated" Visible="True" />
+          <Break StartColor="1574366" EndColor="1574366" StartValue="Madellin clay" EndValue="Madellin clay" Caption="Madellin clay" Visible="True" />
+          <Break StartColor="15782145" EndColor="15782145" StartValue="Madunga clay loam" EndValue="Madunga clay loam" Caption="Madunga clay loam" Visible="True" />
+          <Break StartColor="15643726" EndColor="15643726" StartValue="Magallanes clay loam" EndValue="Magallanes clay loam" Caption="Magallanes clay loam" Visible="True" />
+          <Break StartColor="8468776" EndColor="8468776" StartValue="Magallanes clay loam (Steep phase)" EndValue="Magallanes clay loam (Steep phase)" Caption="Magallanes clay loam (Steep phase)" Visible="True" />
+          <Break StartColor="14479142" EndColor="14479142" StartValue="Magallanes loam" EndValue="Magallanes loam" Caption="Magallanes loam" Visible="True" />
+          <Break StartColor="15877094" EndColor="15877094" StartValue="Magallanes sandy loam" EndValue="Magallanes sandy loam" Caption="Magallanes sandy loam" Visible="True" />
+          <Break StartColor="1184006" EndColor="1184006" StartValue="Magcalon sandy loam" EndValue="Magcalon sandy loam" Caption="Magcalon sandy loam" Visible="True" />
+          <Break StartColor="625881" EndColor="625881" StartValue="Magsaysay clay" EndValue="Magsaysay clay" Caption="Magsaysay clay" Visible="True" />
+          <Break StartColor="13967047" EndColor="13967047" StartValue="Mahuya-tuya clay loam" EndValue="Mahuya-tuya clay loam" Caption="Mahuya-tuya clay loam" Visible="True" />
+          <Break StartColor="1809964" EndColor="1809964" StartValue="Makar loam" EndValue="Makar loam" Caption="Makar loam" Visible="True" />
+          <Break StartColor="12508317" EndColor="12508317" StartValue="Makato clay" EndValue="Makato clay" Caption="Makato clay" Visible="True" />
+          <Break StartColor="7795302" EndColor="7795302" StartValue="Malabang sandy" EndValue="Malabang sandy" Caption="Malabang sandy" Visible="True" />
+          <Break StartColor="8610148" EndColor="8610148" StartValue="Malalag clay" EndValue="Malalag clay" Caption="Malalag clay" Visible="True" />
+          <Break StartColor="867715" EndColor="867715" StartValue="Malalag loam" EndValue="Malalag loam" Caption="Malalag loam" Visible="True" />
+          <Break StartColor="1323802" EndColor="1323802" StartValue="Malalag silt loam" EndValue="Malalag silt loam" Caption="Malalag silt loam" Visible="True" />
+          <Break StartColor="484894" EndColor="484894" StartValue="Malalag-Faraon complex" EndValue="Malalag-Faraon complex" Caption="Malalag-Faraon complex" Visible="True" />
+          <Break StartColor="16602540" EndColor="16602540" StartValue="Malandag fine sandy loam" EndValue="Malandag fine sandy loam" Caption="Malandag fine sandy loam" Visible="True" />
+          <Break StartColor="716748" EndColor="716748" StartValue="Maligaya clay" EndValue="Maligaya clay" Caption="Maligaya clay" Visible="True" />
+          <Break StartColor="4903331" EndColor="4903331" StartValue="Maligaya clay loam" EndValue="Maligaya clay loam" Caption="Maligaya clay loam" Visible="True" />
+          <Break StartColor="5424392" EndColor="5424392" StartValue="Maligaya sandy clay loam" EndValue="Maligaya sandy clay loam" Caption="Maligaya sandy clay loam" Visible="True" />
+          <Break StartColor="4890192" EndColor="4890192" StartValue="Maligaya silt loam" EndValue="Maligaya silt loam" Caption="Maligaya silt loam" Visible="True" />
+          <Break StartColor="15902003" EndColor="15902003" StartValue="Maligaya silty clay loam" EndValue="Maligaya silty clay loam" Caption="Maligaya silty clay loam" Visible="True" />
+          <Break StartColor="2093706" EndColor="2093706" StartValue="Malimono clay loam" EndValue="Malimono clay loam" Caption="Malimono clay loam" Visible="True" />
+          <Break StartColor="14655130" EndColor="14655130" StartValue="Malinao fine sandy loam" EndValue="Malinao fine sandy loam" Caption="Malinao fine sandy loam" Visible="True" />
+          <Break StartColor="14312997" EndColor="14312997" StartValue="Malitbog clay" EndValue="Malitbog clay" Caption="Malitbog clay" Visible="True" />
+          <Break StartColor="8412038" EndColor="8412038" StartValue="Mambajao clay" EndValue="Mambajao clay" Caption="Mambajao clay" Visible="True" />
+          <Break StartColor="8482456" EndColor="8482456" StartValue="Mambutay sandy loam" EndValue="Mambutay sandy loam" Caption="Mambutay sandy loam" Visible="True" />
+          <Break StartColor="407734" EndColor="407734" StartValue="Manapla - Bago complex" EndValue="Manapla - Bago complex" Caption="Manapla - Bago complex" Visible="True" />
+          <Break StartColor="6559641" EndColor="6559641" StartValue="Manapla loam" EndValue="Manapla loam" Caption="Manapla loam" Visible="True" />
+          <Break StartColor="12339418" EndColor="12339418" StartValue="Mandawe clay" EndValue="Mandawe clay" Caption="Mandawe clay" Visible="True" />
+          <Break StartColor="8326808" EndColor="8326808" StartValue="Mandawe clay loam" EndValue="Mandawe clay loam" Caption="Mandawe clay loam" Visible="True" />
+          <Break StartColor="385767" EndColor="385767" StartValue="Mandawe loam" EndValue="Mandawe loam" Caption="Mandawe loam" Visible="True" />
+          <Break StartColor="15160411" EndColor="15160411" StartValue="Mandawe silt loam" EndValue="Mandawe silt loam" Caption="Mandawe silt loam" Visible="True" />
+          <Break StartColor="12798304" EndColor="12798304" StartValue="Mantalongan clay loam" EndValue="Mantalongan clay loam" Caption="Mantalongan clay loam" Visible="True" />
+          <Break StartColor="7155751" EndColor="7155751" StartValue="Maranlig clay" EndValue="Maranlig clay" Caption="Maranlig clay" Visible="True" />
+          <Break StartColor="6587101" EndColor="6587101" StartValue="Maranlig gravelly sandy clay loam" EndValue="Maranlig gravelly sandy clay loam" Caption="Maranlig gravelly sandy clay loam" Visible="True" />
+          <Break StartColor="16333893" EndColor="16333893" StartValue="Maranlig loam" EndValue="Maranlig loam" Caption="Maranlig loam" Visible="True" />
+          <Break StartColor="12552580" EndColor="12552580" StartValue="Marikina clay loam" EndValue="Marikina clay loam" Caption="Marikina clay loam" Visible="True" />
+          <Break StartColor="5677498" EndColor="5677498" StartValue="Marikina loam" EndValue="Marikina loam" Caption="Marikina loam" Visible="True" />
+          <Break StartColor="9197608" EndColor="9197608" StartValue="Marikina silt loam" EndValue="Marikina silt loam" Caption="Marikina silt loam" Visible="True" />
+          <Break StartColor="5759372" EndColor="5759372" StartValue="Marikina silty clay loam" EndValue="Marikina silty clay loam" Caption="Marikina silty clay loam" Visible="True" />
+          <Break StartColor="2192455" EndColor="2192455" StartValue="Matho clay" EndValue="Matho clay" Caption="Matho clay" Visible="True" />
+          <Break StartColor="10926575" EndColor="10926575" StartValue="Matina clay" EndValue="Matina clay" Caption="Matina clay" Visible="True" />
+          <Break StartColor="10883632" EndColor="10883632" StartValue="Matina clay loam" EndValue="Matina clay loam" Caption="Matina clay loam" Visible="True" />
+          <Break StartColor="10880555" EndColor="10880555" StartValue="Mauraro gravelly sandy loam" EndValue="Mauraro gravelly sandy loam" Caption="Mauraro gravelly sandy loam" Visible="True" />
+          <Break StartColor="1826525" EndColor="1826525" StartValue="Maydolong sandy clay loam" EndValue="Maydolong sandy clay loam" Caption="Maydolong sandy clay loam" Visible="True" />
+          <Break StartColor="1618713" EndColor="1618713" StartValue="Maydolong silt loam" EndValue="Maydolong silt loam" Caption="Maydolong silt loam" Visible="True" />
+          <Break StartColor="11605371" EndColor="11605371" StartValue="Mayon gravelly sandy loam" EndValue="Mayon gravelly sandy loam" Caption="Mayon gravelly sandy loam" Visible="True" />
+          <Break StartColor="9312652" EndColor="9312652" StartValue="Mayoyao clay loam" EndValue="Mayoyao clay loam" Caption="Mayoyao clay loam" Visible="True" />
+          <Break StartColor="6647690" EndColor="6647690" StartValue="Medilin clay loam" EndValue="Medilin clay loam" Caption="Medilin clay loam" Visible="True" />
+          <Break StartColor="14438406" EndColor="14438406" StartValue="Mirador clay loam" EndValue="Mirador clay loam" Caption="Mirador clay loam" Visible="True" />
+          <Break StartColor="15075617" EndColor="15075617" StartValue="Miral clay loam" EndValue="Miral clay loam" Caption="Miral clay loam" Visible="True" />
+          <Break StartColor="16347000" EndColor="16347000" StartValue="Mogpog clay loam" EndValue="Mogpog clay loam" Caption="Mogpog clay loam" Visible="True" />
+          <Break StartColor="3101369" EndColor="3101369" StartValue="Mogpog sandy loam" EndValue="Mogpog sandy loam" Caption="Mogpog sandy loam" Visible="True" />
+          <Break StartColor="895761" EndColor="895761" StartValue="Mogpog silt loam" EndValue="Mogpog silt loam" Caption="Mogpog silt loam" Visible="True" />
+          <Break StartColor="5350537" EndColor="5350537" StartValue="Mountain soil (undifferentiated)" EndValue="Mountain soil (undifferentiated)" Caption="Mountain soil (undifferentiated)" Visible="True" />
+          <Break StartColor="10995008" EndColor="10995008" StartValue="Nambaran clay loam" EndValue="Nambaran clay loam" Caption="Nambaran clay loam" Visible="True" />
+          <Break StartColor="6561118" EndColor="6561118" StartValue="Nambaran sandy loam" EndValue="Nambaran sandy loam" Caption="Nambaran sandy loam" Visible="True" />
+          <Break StartColor="5332591" EndColor="5332591" StartValue="Nangalisan gravelly clay loam" EndValue="Nangalisan gravelly clay loam" Caption="Nangalisan gravelly clay loam" Visible="True" />
+          <Break StartColor="10926953" EndColor="10926953" StartValue="Natonin loam" EndValue="Natonin loam" Caption="Natonin loam" Visible="True" />
+          <Break StartColor="16119340" EndColor="16119340" StartValue="Natubien loam" EndValue="Natubien loam" Caption="Natubien loam" Visible="True" />
+          <Break StartColor="2163340" EndColor="2163340" StartValue="Nayon clay loam" EndValue="Nayon clay loam" Caption="Nayon clay loam" Visible="True" />
+          <Break StartColor="13685941" EndColor="13685941" StartValue="Novaliches clay loam" EndValue="Novaliches clay loam" Caption="Novaliches clay loam" Visible="True" />
+          <Break StartColor="7112700" EndColor="7112700" StartValue="Novaliches clay loam adobe" EndValue="Novaliches clay loam adobe" Caption="Novaliches clay loam adobe" Visible="True" />
+          <Break StartColor="15661604" EndColor="15661604" StartValue="Novaliches loam" EndValue="Novaliches loam" Caption="Novaliches loam" Visible="True" />
+          <Break StartColor="7616089" EndColor="7616089" StartValue="Nupol sandy loam" EndValue="Nupol sandy loam" Caption="Nupol sandy loam" Visible="True" />
+          <Break StartColor="6025384" EndColor="6025384" StartValue="Obando fine sand" EndValue="Obando fine sand" Caption="Obando fine sand" Visible="True" />
+          <Break StartColor="4797830" EndColor="4797830" StartValue="Obando fine sandy loam" EndValue="Obando fine sandy loam" Caption="Obando fine sandy loam" Visible="True" />
+          <Break StartColor="9576604" EndColor="9576604" StartValue="Obando sand" EndValue="Obando sand" Caption="Obando sand" Visible="True" />
+          <Break StartColor="5874161" EndColor="5874161" StartValue="Obando very fine sand" EndValue="Obando very fine sand" Caption="Obando very fine sand" Visible="True" />
+          <Break StartColor="13950794" EndColor="13950794" StartValue="Odiongan clay loam" EndValue="Odiongan clay loam" Caption="Odiongan clay loam" Visible="True" />
+          <Break StartColor="11185926" EndColor="11185926" StartValue="Paete clay loam" EndValue="Paete clay loam" Caption="Paete clay loam" Visible="True" />
+          <Break StartColor="6654916" EndColor="6654916" StartValue="Palapaa clay loam" EndValue="Palapaa clay loam" Caption="Palapaa clay loam" Visible="True" />
+          <Break StartColor="15845368" EndColor="15845368" StartValue="Palitod silt loam" EndValue="Palitod silt loam" Caption="Palitod silt loam" Visible="True" />
+          <Break StartColor="14891553" EndColor="14891553" StartValue="Palompon clay" EndValue="Palompon clay" Caption="Palompon clay" Visible="True" />
+          <Break StartColor="9875513" EndColor="9875513" StartValue="Panganiran clay" EndValue="Panganiran clay" Caption="Panganiran clay" Visible="True" />
+          <Break StartColor="3928303" EndColor="3928303" StartValue="Pangasinan fine sand" EndValue="Pangasinan fine sand" Caption="Pangasinan fine sand" Visible="True" />
+          <Break StartColor="325158" EndColor="325158" StartValue="Pangasinan river sand" EndValue="Pangasinan river sand" Caption="Pangasinan river sand" Visible="True" />
+          <Break StartColor="14442441" EndColor="14442441" StartValue="Pantungan sand" EndValue="Pantungan sand" Caption="Pantungan sand" Visible="True" />
+          <Break StartColor="13829846" EndColor="13829846" StartValue="Panupdupan clay loam" EndValue="Panupdupan clay loam" Caption="Panupdupan clay loam" Visible="True" />
+          <Break StartColor="4362308" EndColor="4362308" StartValue="Paoay loam" EndValue="Paoay loam" Caption="Paoay loam" Visible="True" />
+          <Break StartColor="12169500" EndColor="12169500" StartValue="Parang clay loam" EndValue="Parang clay loam" Caption="Parang clay loam" Visible="True" />
+          <Break StartColor="15339964" EndColor="15339964" StartValue="Pason anca loam" EndValue="Pason anca loam" Caption="Pason anca loam" Visible="True" />
+          <Break StartColor="3875079" EndColor="3875079" StartValue="Patnongon sandy clay loam" EndValue="Patnongon sandy clay loam" Caption="Patnongon sandy clay loam" Visible="True" />
+          <Break StartColor="5272740" EndColor="5272740" StartValue="Pawing fine sandy loam" EndValue="Pawing fine sandy loam" Caption="Pawing fine sandy loam" Visible="True" />
+          <Break StartColor="9657227" EndColor="9657227" StartValue="Pellupandan sandy loam" EndValue="Pellupandan sandy loam" Caption="Pellupandan sandy loam" Visible="True" />
+          <Break StartColor="8473696" EndColor="8473696" StartValue="Pilar fine sandy loam" EndValue="Pilar fine sandy loam" Caption="Pilar fine sandy loam" Visible="True" />
+          <Break StartColor="5825317" EndColor="5825317" StartValue="Pilar silt loam" EndValue="Pilar silt loam" Caption="Pilar silt loam" Visible="True" />
+          <Break StartColor="7202778" EndColor="7202778" StartValue="Pili clay" EndValue="Pili clay" Caption="Pili clay" Visible="True" />
+          <Break StartColor="11478919" EndColor="11478919" StartValue="Pili clay loam" EndValue="Pili clay loam" Caption="Pili clay loam" Visible="True" />
+          <Break StartColor="224593" EndColor="224593" StartValue="Pili loam" EndValue="Pili loam" Caption="Pili loam" Visible="True" />
+          <Break StartColor="4565943" EndColor="4565943" StartValue="Polillo sandy clay loam" EndValue="Polillo sandy clay loam" Caption="Polillo sandy clay loam" Visible="True" />
+          <Break StartColor="10696970" EndColor="10696970" StartValue="Pollilo sandy clay loam" EndValue="Pollilo sandy clay loam" Caption="Pollilo sandy clay loam" Visible="True" />
+          <Break StartColor="3948328" EndColor="3948328" StartValue="Prensa clay loam" EndValue="Prensa clay loam" Caption="Prensa clay loam" Visible="True" />
+          <Break StartColor="11436783" EndColor="11436783" StartValue="Prensa sandy loam" EndValue="Prensa sandy loam" Caption="Prensa sandy loam" Visible="True" />
+          <Break StartColor="13081261" EndColor="13081261" StartValue="Prensa silt loam" EndValue="Prensa silt loam" Caption="Prensa silt loam" Visible="True" />
+          <Break StartColor="373074" EndColor="373074" StartValue="Prensa silty clay loam" EndValue="Prensa silty clay loam" Caption="Prensa silty clay loam" Visible="True" />
+          <Break StartColor="3813986" EndColor="3813986" StartValue="Puguis gravelly loam" EndValue="Puguis gravelly loam" Caption="Puguis gravelly loam" Visible="True" />
+          <Break StartColor="13626923" EndColor="13626923" StartValue="Quiangua silt loam" EndValue="Quiangua silt loam" Caption="Quiangua silt loam" Visible="True" />
+          <Break StartColor="11086296" EndColor="11086296" StartValue="Quingua clay" EndValue="Quingua clay" Caption="Quingua clay" Visible="True" />
+          <Break StartColor="16569027" EndColor="16569027" StartValue="Quingua clay loam" EndValue="Quingua clay loam" Caption="Quingua clay loam" Visible="True" />
+          <Break StartColor="7775014" EndColor="7775014" StartValue="Quingua fine sand" EndValue="Quingua fine sand" Caption="Quingua fine sand" Visible="True" />
+          <Break StartColor="2441870" EndColor="2441870" StartValue="Quingua loam" EndValue="Quingua loam" Caption="Quingua loam" Visible="True" />
+          <Break StartColor="5893293" EndColor="5893293" StartValue="Quingua sandy clay loam" EndValue="Quingua sandy clay loam" Caption="Quingua sandy clay loam" Visible="True" />
+          <Break StartColor="14275207" EndColor="14275207" StartValue="Quingua sandy loam" EndValue="Quingua sandy loam" Caption="Quingua sandy loam" Visible="True" />
+          <Break StartColor="12857272" EndColor="12857272" StartValue="Quingua silty clay" EndValue="Quingua silty clay" Caption="Quingua silty clay" Visible="True" />
+          <Break StartColor="9328265" EndColor="9328265" StartValue="Ramain clay loam" EndValue="Ramain clay loam" Caption="Ramain clay loam" Visible="True" />
+          <Break StartColor="12625723" EndColor="12625723" StartValue="Rizal clay" EndValue="Rizal clay" Caption="Rizal clay" Visible="True" />
+          <Break StartColor="9984075" EndColor="9984075" StartValue="Rock land" EndValue="Rock land" Caption="Rock land" Visible="True" />
+          <Break StartColor="8363603" EndColor="8363603" StartValue="Romblon clay" EndValue="Romblon clay" Caption="Romblon clay" Visible="True" />
+          <Break StartColor="16362756" EndColor="16362756" StartValue="Rough Broken land" EndValue="Rough Broken land" Caption="Rough Broken land" Visible="True" />
+          <Break StartColor="6721897" EndColor="6721897" StartValue="Rough Mountainious land" EndValue="Rough Mountainious land" Caption="Rough Mountainious land" Visible="True" />
+          <Break StartColor="15824110" EndColor="15824110" StartValue="Rough stony land" EndValue="Rough stony land" Caption="Rough stony land" Visible="True" />
+          <Break StartColor="4083194" EndColor="4083194" StartValue="Rubble land" EndValue="Rubble land" Caption="Rubble land" Visible="True" />
+          <Break StartColor="9243424" EndColor="9243424" StartValue="Rugao clay" EndValue="Rugao clay" Caption="Rugao clay" Visible="True" />
+          <Break StartColor="12904307" EndColor="12904307" StartValue="Rugao clay loam" EndValue="Rugao clay loam" Caption="Rugao clay loam" Visible="True" />
+          <Break StartColor="10871661" EndColor="10871661" StartValue="Rugao sandy clay loam" EndValue="Rugao sandy clay loam" Caption="Rugao sandy clay loam" Visible="True" />
+          <Break StartColor="14146208" EndColor="14146208" StartValue="Rugao sandy loam" EndValue="Rugao sandy loam" Caption="Rugao sandy loam" Visible="True" />
+          <Break StartColor="1330767" EndColor="1330767" StartValue="Ruguan clay loam" EndValue="Ruguan clay loam" Caption="Ruguan clay loam" Visible="True" />
+          <Break StartColor="15447206" EndColor="15447206" StartValue="Sabangan" EndValue="Sabangan" Caption="Sabangan" Visible="True" />
+          <Break StartColor="426765" EndColor="426765" StartValue="Sagada clay" EndValue="Sagada clay" Caption="Sagada clay" Visible="True" />
+          <Break StartColor="10031740" EndColor="10031740" StartValue="Salaman loam" EndValue="Salaman loam" Caption="Salaman loam" Visible="True" />
+          <Break StartColor="11310230" EndColor="11310230" StartValue="San Fabian clay loam" EndValue="San Fabian clay loam" Caption="San Fabian clay loam" Visible="True" />
+          <Break StartColor="5758554" EndColor="5758554" StartValue="San Fernando clay" EndValue="San Fernando clay" Caption="San Fernando clay" Visible="True" />
+          <Break StartColor="12981448" EndColor="12981448" StartValue="San Fernando clay loam" EndValue="San Fernando clay loam" Caption="San Fernando clay loam" Visible="True" />
+          <Break StartColor="12851109" EndColor="12851109" StartValue="San Fernando silty clay" EndValue="San Fernando silty clay" Caption="San Fernando silty clay" Visible="True" />
+          <Break StartColor="11570976" EndColor="11570976" StartValue="San Juan clay" EndValue="San Juan clay" Caption="San Juan clay" Visible="True" />
+          <Break StartColor="947504" EndColor="947504" StartValue="San Juan sandy clay loam" EndValue="San Juan sandy clay loam" Caption="San Juan sandy clay loam" Visible="True" />
+          <Break StartColor="274685" EndColor="274685" StartValue="San Manuel clay" EndValue="San Manuel clay" Caption="San Manuel clay" Visible="True" />
+          <Break StartColor="5100787" EndColor="5100787" StartValue="San Manuel clay loam" EndValue="San Manuel clay loam" Caption="San Manuel clay loam" Visible="True" />
+          <Break StartColor="14951175" EndColor="14951175" StartValue="San Manuel fine sandy loam" EndValue="San Manuel fine sandy loam" Caption="San Manuel fine sandy loam" Visible="True" />
+          <Break StartColor="16463757" EndColor="16463757" StartValue="San Manuel loam" EndValue="San Manuel loam" Caption="San Manuel loam" Visible="True" />
+          <Break StartColor="9669715" EndColor="9669715" StartValue="San Manuel loamy sand" EndValue="San Manuel loamy sand" Caption="San Manuel loamy sand" Visible="True" />
+          <Break StartColor="13608218" EndColor="13608218" StartValue="San Manuel sandy clay loam" EndValue="San Manuel sandy clay loam" Caption="San Manuel sandy clay loam" Visible="True" />
+          <Break StartColor="14696797" EndColor="14696797" StartValue="San Manuel sandy loam" EndValue="San Manuel sandy loam" Caption="San Manuel sandy loam" Visible="True" />
+          <Break StartColor="9528918" EndColor="9528918" StartValue="San Manuel silt, San Manuel silt loam, San Miguel silt loam" EndValue="San Manuel silt, San Manuel silt loam, San Miguel silt loam" Caption="San Manuel silt, San Manuel silt loam, San Miguel silt loam" Visible="True" />
+          <Break StartColor="9203949" EndColor="9203949" StartValue="San Manuel silty clay" EndValue="San Manuel silty clay" Caption="San Manuel silty clay" Visible="True" />
+          <Break StartColor="13845247" EndColor="13845247" StartValue="San Manuel silty clay loam" EndValue="San Manuel silty clay loam" Caption="San Manuel silty clay loam" Visible="True" />
+          <Break StartColor="12453761" EndColor="12453761" StartValue="San Manuel soil, undifferentiated" EndValue="San Manuel soil, undifferentiated" Caption="San Manuel soil, undifferentiated" Visible="True" />
+          <Break StartColor="10145260" EndColor="10145260" StartValue="San Manuel -Taal complex" EndValue="San Manuel -Taal complex" Caption="San Manuel -Taal complex" Visible="True" />
+          <Break StartColor="1537236" EndColor="1537236" StartValue="San Rafael loam" EndValue="San Rafael loam" Caption="San Rafael loam" Visible="True" />
+          <Break StartColor="4516958" EndColor="4516958" StartValue="Sandy Manuel sandy" EndValue="Sandy Manuel sandy" Caption="Sandy Manuel sandy" Visible="True" />
+          <Break StartColor="464544" EndColor="464544" StartValue="Santa Fe loam" EndValue="Santa Fe loam" Caption="Santa Fe loam" Visible="True" />
+          <Break StartColor="6230122" EndColor="6230122" StartValue="Santa Fe sandy loam" EndValue="Santa Fe sandy loam" Caption="Santa Fe sandy loam" Visible="True" />
+          <Break StartColor="7699617" EndColor="7699617" StartValue="Sapa clay loam" EndValue="Sapa clay loam" Caption="Sapa clay loam" Visible="True" />
+          <Break StartColor="3005341" EndColor="3005341" StartValue="Sapian clay" EndValue="Sapian clay" Caption="Sapian clay" Visible="True" />
+          <Break StartColor="14235273" EndColor="14235273" StartValue="Sara clay loam" EndValue="Sara clay loam" Caption="Sara clay loam" Visible="True" />
+          <Break StartColor="16593950" EndColor="16593950" StartValue="Sari silty clay" EndValue="Sari silty clay" Caption="Sari silty clay" Visible="True" />
+          <Break StartColor="5371242" EndColor="5371242" StartValue="Sariaya sandy loam" EndValue="Sariaya sandy loam" Caption="Sariaya sandy loam" Visible="True" />
+          <Break StartColor="11855601" EndColor="11855601" StartValue="Sevilla clay" EndValue="Sevilla clay" Caption="Sevilla clay" Visible="True" />
+          <Break StartColor="6105269" EndColor="6105269" StartValue="Sevilla clay loam/Sevilla sandy clay loam" EndValue="Sevilla clay loam/Sevilla sandy clay loam" Caption="Sevilla clay loam/Sevilla sandy clay loam" Visible="True" />
+          <Break StartColor="421188" EndColor="421188" StartValue="Siain silt loam" EndValue="Siain silt loam" Caption="Siain silt loam" Visible="True" />
+          <Break StartColor="4739565" EndColor="4739565" StartValue="Siaton sandy loam" EndValue="Siaton sandy loam" Caption="Siaton sandy loam" Visible="True" />
+          <Break StartColor="5993650" EndColor="5993650" StartValue="Sibul clay" EndValue="Sibul clay" Caption="Sibul clay" Visible="True" />
+          <Break StartColor="6867605" EndColor="6867605" StartValue="Sibul clay (undifferentiated)" EndValue="Sibul clay (undifferentiated)" Caption="Sibul clay (undifferentiated)" Visible="True" />
+          <Break StartColor="5713417" EndColor="5713417" StartValue="Sibul clay loam" EndValue="Sibul clay loam" Caption="Sibul clay loam" Visible="True" />
+          <Break StartColor="11910915" EndColor="11910915" StartValue="Sigcay clay" EndValue="Sigcay clay" Caption="Sigcay clay" Visible="True" />
+          <Break StartColor="7643899" EndColor="7643899" StartValue="Silay clay" EndValue="Silay clay" Caption="Silay clay" Visible="True" />
+          <Break StartColor="7303710" EndColor="7303710" StartValue="Silay fine sandy loam" EndValue="Silay fine sandy loam" Caption="Silay fine sandy loam" Visible="True" />
+          <Break StartColor="3698366" EndColor="3698366" StartValue="Silay loam" EndValue="Silay loam" Caption="Silay loam" Visible="True" />
+          <Break StartColor="12660798" EndColor="12660798" StartValue="Silay sandy loam" EndValue="Silay sandy loam" Caption="Silay sandy loam" Visible="True" />
+          <Break StartColor="14988678" EndColor="14988678" StartValue="Sinapangan clay" EndValue="Sinapangan clay" Caption="Sinapangan clay" Visible="True" />
+          <Break StartColor="11568018" EndColor="11568018" StartValue="Sinolan sandy loam" EndValue="Sinolan sandy loam" Caption="Sinolan sandy loam" Visible="True" />
+          <Break StartColor="12138331" EndColor="12138331" StartValue="Sison clay loam" EndValue="Sison clay loam" Caption="Sison clay loam" Visible="True" />
+          <Break StartColor="11240931" EndColor="11240931" StartValue="Soils undefferentiated" EndValue="Soils undefferentiated" Caption="Soils undefferentiated" Visible="True" />
+          <Break StartColor="1950150" EndColor="1950150" StartValue="Songsong clay loam" EndValue="Songsong clay loam" Caption="Songsong clay loam" Visible="True" />
+          <Break StartColor="10310801" EndColor="10310801" StartValue="Sora silt loam" EndValue="Sora silt loam" Caption="Sora silt loam" Visible="True" />
+          <Break StartColor="4945208" EndColor="4945208" StartValue="Sorsogon clay loam" EndValue="Sorsogon clay loam" Caption="Sorsogon clay loam" Visible="True" />
+          <Break StartColor="5512208" EndColor="5512208" StartValue="Sorsogon sandy loam" EndValue="Sorsogon sandy loam" Caption="Sorsogon sandy loam" Visible="True" />
+          <Break StartColor="5610053" EndColor="5610053" StartValue="Sorsogon silty clay loam" EndValue="Sorsogon silty clay loam" Caption="Sorsogon silty clay loam" Visible="True" />
+          <Break StartColor="9192031" EndColor="9192031" StartValue="Sta. Filomena clay loam" EndValue="Sta. Filomena clay loam" Caption="Sta. Filomena clay loam" Visible="True" />
+          <Break StartColor="10287878" EndColor="10287878" StartValue="Sta. Maria clay" EndValue="Sta. Maria clay" Caption="Sta. Maria clay" Visible="True" />
+          <Break StartColor="949797" EndColor="949797" StartValue="Sta. Rita clay" EndValue="Sta. Rita clay" Caption="Sta. Rita clay" Visible="True" />
+          <Break StartColor="850494" EndColor="850494" StartValue="Sta. Rita clay loam" EndValue="Sta. Rita clay loam" Caption="Sta. Rita clay loam" Visible="True" />
+          <Break StartColor="10228342" EndColor="10228342" StartValue="Sta. Rita sandy loam" EndValue="Sta. Rita sandy loam" Caption="Sta. Rita sandy loam" Visible="True" />
+          <Break StartColor="12114195" EndColor="12114195" StartValue="Surigao clay loam" EndValue="Surigao clay loam" Caption="Surigao clay loam" Visible="True" />
+          <Break StartColor="10772598" EndColor="10772598" StartValue="Taal fine sandy loam" EndValue="Taal fine sandy loam" Caption="Taal fine sandy loam" Visible="True" />
+          <Break StartColor="12383357" EndColor="12383357" StartValue="Taal loam" EndValue="Taal loam" Caption="Taal loam" Visible="True" />
+          <Break StartColor="15371086" EndColor="15371086" StartValue="Taal sandy loam" EndValue="Taal sandy loam" Caption="Taal sandy loam" Visible="True" />
+          <Break StartColor="6151614" EndColor="6151614" StartValue="Taal Volcano sand" EndValue="Taal Volcano sand" Caption="Taal Volcano sand" Visible="True" />
+          <Break StartColor="11330355" EndColor="11330355" StartValue="Tacdian clay loam" EndValue="Tacdian clay loam" Caption="Tacdian clay loam" Visible="True" />
+          <Break StartColor="14719094" EndColor="14719094" StartValue="Tacloban clay" EndValue="Tacloban clay" Caption="Tacloban clay" Visible="True" />
+          <Break StartColor="16012139" EndColor="16012139" StartValue="Tacloban clay loam" EndValue="Tacloban clay loam" Caption="Tacloban clay loam" Visible="True" />
+          <Break StartColor="10315575" EndColor="10315575" StartValue="Tadao sandy clay loam" EndValue="Tadao sandy clay loam" Caption="Tadao sandy clay loam" Visible="True" />
+          <Break StartColor="788886" EndColor="788886" StartValue="Tagaytay loam" EndValue="Tagaytay loam" Caption="Tagaytay loam" Visible="True" />
+          <Break StartColor="2877348" EndColor="2877348" StartValue="Tagaytay loam (Steep Phase)" EndValue="Tagaytay loam (Steep Phase)" Caption="Tagaytay loam (Steep Phase)" Visible="True" />
+          <Break StartColor="5048744" EndColor="5048744" StartValue="Tagaytay sandy loam" EndValue="Tagaytay sandy loam" Caption="Tagaytay sandy loam" Visible="True" />
+          <Break StartColor="12218747" EndColor="12218747" StartValue="Tagburos clay" EndValue="Tagburos clay" Caption="Tagburos clay" Visible="True" />
+          <Break StartColor="13268303" EndColor="13268303" StartValue="Tagkawayan sandy loam" EndValue="Tagkawayan sandy loam" Caption="Tagkawayan sandy loam" Visible="True" />
+          <Break StartColor="194852" EndColor="194852" StartValue="Taguis clay" EndValue="Taguis clay" Caption="Taguis clay" Visible="True" />
+          <Break StartColor="8561602" EndColor="8561602" StartValue="Tagum clay loam" EndValue="Tagum clay loam" Caption="Tagum clay loam" Visible="True" />
+          <Break StartColor="4119951" EndColor="4119951" StartValue="Tamantaka clay" EndValue="Tamantaka clay" Caption="Tamantaka clay" Visible="True" />
+          <Break StartColor="1599020" EndColor="1599020" StartValue="Tapul clay loam" EndValue="Tapul clay loam" Caption="Tapul clay loam" Visible="True" />
+          <Break StartColor="3828881" EndColor="3828881" StartValue="Tarlac (lowland phase) clay loam" EndValue="Tarlac (lowland phase) clay loam" Caption="Tarlac (lowland phase) clay loam" Visible="True" />
+          <Break StartColor="4918056" EndColor="4918056" StartValue="Tarlac clay loam" EndValue="Tarlac clay loam" Caption="Tarlac clay loam" Visible="True" />
+          <Break StartColor="5833467" EndColor="5833467" StartValue="Tarlac clay loam, gravelly phase" EndValue="Tarlac clay loam, gravelly phase" Caption="Tarlac clay loam, gravelly phase" Visible="True" />
+          <Break StartColor="10417420" EndColor="10417420" StartValue="Tarlac sandy clay loam" EndValue="Tarlac sandy clay loam" Caption="Tarlac sandy clay loam" Visible="True" />
+          <Break StartColor="1511202" EndColor="1511202" StartValue="Tarlac soils" EndValue="Tarlac soils" Caption="Tarlac soils" Visible="True" />
+          <Break StartColor="16052992" EndColor="16052992" StartValue="Tarug clay loam" EndValue="Tarug clay loam" Caption="Tarug clay loam" Visible="True" />
+          <Break StartColor="8286346" EndColor="8286346" StartValue="Tarug-Faraon complex" EndValue="Tarug-Faraon complex" Caption="Tarug-Faraon complex" Visible="True" />
+          <Break StartColor="691717" EndColor="691717" StartValue="Tigaon clay" EndValue="Tigaon clay" Caption="Tigaon clay" Visible="True" />
+          <Break StartColor="8572417" EndColor="8572417" StartValue="Timbo clay loam" EndValue="Timbo clay loam" Caption="Timbo clay loam" Visible="True" />
+          <Break StartColor="983420" EndColor="983420" StartValue="Tinamaga clay loam" EndValue="Tinamaga clay loam" Caption="Tinamaga clay loam" Visible="True" />
+          <Break StartColor="4196928" EndColor="4196928" StartValue="Tinambulan peat" EndValue="Tinambulan peat" Caption="Tinambulan peat" Visible="True" />
+          <Break StartColor="14003411" EndColor="14003411" StartValue="Tingib clay loam" EndValue="Tingib clay loam" Caption="Tingib clay loam" Visible="True" />
+          <Break StartColor="9232620" EndColor="9232620" StartValue="Tittay sandy clay loam" EndValue="Tittay sandy clay loam" Caption="Tittay sandy clay loam" Visible="True" />
+          <Break StartColor="5380190" EndColor="5380190" StartValue="Toran loam" EndValue="Toran loam" Caption="Toran loam" Visible="True" />
+          <Break StartColor="6899354" EndColor="6899354" StartValue="Toran silty clay" EndValue="Toran silty clay" Caption="Toran silty clay" Visible="True" />
+          <Break StartColor="5822595" EndColor="5822595" StartValue="Tugbok clay" EndValue="Tugbok clay" Caption="Tugbok clay" Visible="True" />
+          <Break StartColor="2436882" EndColor="2436882" StartValue="Tupi fine sandy loam" EndValue="Tupi fine sandy loam" Caption="Tupi fine sandy loam" Visible="True" />
+          <Break StartColor="13959880" EndColor="13959880" StartValue="Tupi loam" EndValue="Tupi loam" Caption="Tupi loam" Visible="True" />
+          <Break StartColor="6012173" EndColor="6012173" StartValue="Tupi silt loam" EndValue="Tupi silt loam" Caption="Tupi silt loam" Visible="True" />
+          <Break StartColor="975713" EndColor="975713" StartValue="Ubay clay" EndValue="Ubay clay" Caption="Ubay clay" Visible="True" />
+          <Break StartColor="1378343" EndColor="1378343" StartValue="Ubay clay loam" EndValue="Ubay clay loam" Caption="Ubay clay loam" Visible="True" />
+          <Break StartColor="7489098" EndColor="7489098" StartValue="Ubay sandy loam" EndValue="Ubay sandy loam" Caption="Ubay sandy loam" Visible="True" />
+          <Break StartColor="11270839" EndColor="11270839" StartValue="Umingan clay" EndValue="Umingan clay" Caption="Umingan clay" Visible="True" />
+          <Break StartColor="2777887" EndColor="2777887" StartValue="Umingan clay loam" EndValue="Umingan clay loam" Caption="Umingan clay loam" Visible="True" />
+          <Break StartColor="4326344" EndColor="4326344" StartValue="Umingan fine sand" EndValue="Umingan fine sand" Caption="Umingan fine sand" Visible="True" />
+          <Break StartColor="7554853" EndColor="7554853" StartValue="Umingan fine sandy loam" EndValue="Umingan fine sandy loam" Caption="Umingan fine sandy loam" Visible="True" />
+          <Break StartColor="16416874" EndColor="16416874" StartValue="Umingan loam" EndValue="Umingan loam" Caption="Umingan loam" Visible="True" />
+          <Break StartColor="5991237" EndColor="5991237" StartValue="Umingan loam, deep phase" EndValue="Umingan loam, deep phase" Caption="Umingan loam, deep phase" Visible="True" />
+          <Break StartColor="2437910" EndColor="2437910" StartValue="Umingan sand" EndValue="Umingan sand" Caption="Umingan sand" Visible="True" />
+          <Break StartColor="8494307" EndColor="8494307" StartValue="Umingan sandy clay loam" EndValue="Umingan sandy clay loam" Caption="Umingan sandy clay loam" Visible="True" />
+          <Break StartColor="1514971" EndColor="1514971" StartValue="Umingan sandy loam" EndValue="Umingan sandy loam" Caption="Umingan sandy loam" Visible="True" />
+          <Break StartColor="14585311" EndColor="14585311" StartValue="Umingan silt loam" EndValue="Umingan silt loam" Caption="Umingan silt loam" Visible="True" />
+          <Break StartColor="8622476" EndColor="8622476" StartValue="Umingan silty clay loam" EndValue="Umingan silty clay loam" Caption="Umingan silty clay loam" Visible="True" />
+          <Break StartColor="13479453" EndColor="13479453" StartValue="Victorias clay loam" EndValue="Victorias clay loam" Caption="Victorias clay loam" Visible="True" />
+          <Break StartColor="5467431" EndColor="5467431" StartValue="Villar sandy loam" EndValue="Villar sandy loam" Caption="Villar sandy loam" Visible="True" />
+          <Break StartColor="12916069" EndColor="12916069" StartValue="Virac loam" EndValue="Virac loam" Caption="Virac loam" Visible="True" />
+          <Break StartColor="7644452" EndColor="7644452" StartValue="Zamboangita sandy loam" EndValue="Zamboangita sandy loam" Caption="Zamboangita sandy loam" Visible="True" />
+          <Break StartColor="8362115" EndColor="8362115" StartValue="Zamboanguita clay loam" EndValue="Zamboanguita clay loam" Caption="Zamboanguita clay loam" Visible="True" />
+          <Break StartColor="2338950" EndColor="2338950" StartValue="Zaragosa clay" EndValue="Zaragosa clay" Caption="Zaragosa clay" Visible="True" />
+        </ColorBreaks>
+      </Legend>
+    </ShapeFileProperties>
+    <DynamicVisibility UseDynamicVisibility="False" Scale="0" />
+  </Layer>
+</SFRendering>
